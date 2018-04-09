@@ -1,0 +1,3 @@
+[submodule "site/themes/kube"]
+    path = site/themes/kube
+	url = https://github.com/jeblister/kube.git
