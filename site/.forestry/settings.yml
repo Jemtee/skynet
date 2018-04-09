@@ -6,5 +6,9 @@ new_page_extension: md
 auto_deploy: false
 admin_path: "/secret-admin"
 webhook_url: 
-sections: 
+sections:
+  docs:
+    default_front_matter_template: docs
+  blog:
+    default_front_matter_template: blog
 version: 0.38.1
